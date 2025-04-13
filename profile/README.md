@@ -38,7 +38,7 @@
 
 ### 💬 Benimle İletişime Geç
 
-- 📫 Mail: firatdev@example.com *(yerine kendi mailini yazarsın sonra)*
+- 📫 Mail: firattunaarslan@gmail.com
 - 🧠 Aktif projelerim ve detaylar için yakında portföy sitem yayında olacak!
 
 ---
