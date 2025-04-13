@@ -2,7 +2,7 @@
 
 <p align="center">
   Yapay Zeka Mühendisliği öğrencisiyim, 8 yıldır yazılım yazıyorum.  
-  Arayüzden backend’e, yapay zekadan donanıma kadar her yere parmak atarım 😎  
+  Arayüzden backend’e, yapay zekadan donanıma kadar her yere el atarım 😎  
 </p>
 
 ---
