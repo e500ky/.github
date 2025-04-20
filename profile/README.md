@@ -39,7 +39,7 @@
 ### 💬 Benimle İletişime Geç
 
 - 📫 Mail: firattunaarslan@gmail.com
-- 🧠 Aktif projelerim ve detaylar için yakında portföy sitem yayında olacak!
+- 🧠 Aktif projelerim ve detaylar işte burada: [e500ky.github.io](https://e500ky.github.io)
 
 ---
 
