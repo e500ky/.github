@@ -1,7 +1,7 @@
 <h1 align="center">Selam, ben Fırat 👋</h1>
 
 <p align="center">
-  Yapay Zeka Mühendisliği öğrencisiyim, 8 yıldır yazılım yazıyorum.  
+  Yapay Zeka Mühendisliği öğrencisiyim, 8 yıldır yazılım ile ilgileniyorum.  
   Arayüzden backend’e, yapay zekadan donanıma kadar her yere el atarım 😎  
 </p>
 
