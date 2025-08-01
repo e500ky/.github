@@ -1,4 +1,6 @@
-<h1 align="center">👋 Selam, ben <strong>Fırat Tuna Arslan</strong></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Merhaba,+ben+Fırat+👋" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <i>Yapay Zekâ Mühendisliği mezunu, 8+ yıldır yazılımcı, arayüzden yapay zekâya tam teşekküllü bir mühendis 😎</i>
