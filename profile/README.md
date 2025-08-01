@@ -7,6 +7,10 @@
 <br/>
 
 <p align="center">
+  <img src="https://github.com/firatmio/.github/blob/main/assets/avatar.jpg" alt="Avatar" width="150" style="border-radius: 50%; border: 2px solid #ccc;" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,electron,firebase,mysql,postgresql,bosluk,bosluk,css,tailwind,git,github,vscode&perline=9" />
 </p>
 
