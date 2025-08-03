@@ -16,7 +16,7 @@
 
 ### 🧠 Hakkımda
 
-> 🎓 **Yapay Zekâ Mühendisliği** mezunuyum. Yazılım dünyasına erken atıldım, 8+ yıldır bu işin içindeyim.<br>
+> 🎓 **Yapay Zekâ Mühendisliği** öğrencisiyim. Yazılım dünyasına erken atıldım, 8+ yıldır bu işin içindeyim.<br>
 > 💻 Masaüstü uygulamalar, web platformları, yapay zekâ sistemleri ve hibrit yazılımlar geliştiriyorum.<br>
 > ⚙️ Sadece kod yazmam, sistemi tasarlarım, akışı kurarım, kullanıcı deneyimini şekillendiririm.
 
