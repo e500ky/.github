@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>Yapay Zekâ Mühendisliği mezunu, 8+ yıldır yazılımcı, arayüzden yapay zekâya tam teşekküllü bir mühendis 😎</i>
+  <i>Yapay Zekâ Mühendisliği öğrencisi, 8+ yıldır yazılımcı, arayüzden yapay zekâya tam teşekküllü bir mühendis 😎</i>
 </p>
 
 <br/>
