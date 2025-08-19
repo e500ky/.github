@@ -54,7 +54,6 @@
 
 - 💌 Mail: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
 - 🌐 Web: [firatmio.github.io](https://firatmio.github.io)
-- 🧠 Proje takibi, yazılar ve portföy burada!
 
 ---
 
