@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmio&layout=compact&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=firatmio&show_icons=true&theme=transparent&hide_border=true" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firatmio\&theme=radical)
 </p>
 
 ---
