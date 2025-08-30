@@ -41,29 +41,37 @@
 
 ---
 
-### 💼 Technical Background
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=firatmio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6"/>
+</p>
 
-<div align="center">
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firatmio&layout=compact&theme=transparent)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firatmio&theme=transparent)
-
-</div>
-
----
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/firatmio" alt="Contribution Calendar" width="100%"/>
 
 ### 📬 Contact Me
 
 - 💌 Email: [firattunaarslan@gmail.com](mailto:firattunaarslan@gmail.com)
 - 🌐 Website: [firatmio.github.io](https://firatmio.github.io)
 
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firatmio&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
-<p align="center">
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=firatmio&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  
   <i>“I don’t just write code, I bring it to life.”</i>  
   <br/>
   — <strong>Fırat Tuna Arslan</strong>
-</p>
+
+  [![GitHub followers](https://img.shields.io/github/followers/firatmio?style=social)](https://github.com/firatmio)
+  
+</div>
