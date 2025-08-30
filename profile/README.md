@@ -58,9 +58,11 @@
 - 🌐 Website: [firatmio.github.io](https://firatmio.github.io)
 
 ### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firatmio&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  
+  ![https://github-readme-streak-stats.herokuapp.com/?user=firatmio&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=firatmio&theme=tokyonight&hide_border=true)
+  
+</div>
 
 ---
 
