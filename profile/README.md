@@ -43,10 +43,15 @@
 
 ### 💼 Technical Background
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmio&layout=compact&theme=transparent&hide_border=true" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firatmio\&theme=radical)
-</p>
+<div align="center">
+
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firatmio&layout=compact&theme=transparent)
+
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firatmio&theme=transparent)
+
+</div>
 
 ---
 
