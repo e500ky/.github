@@ -42,9 +42,10 @@
 ---
 
 ### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firatmio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6"/>
-</p>
+<div align="center">
+  
+  ![https://github-profile-trophy.vercel.app/?username=firatmio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6](https://github-profile-trophy.vercel.app/?username=firatmio&margin-w=8)
+</div>
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=firatmio&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
